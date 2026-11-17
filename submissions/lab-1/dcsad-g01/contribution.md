@@ -2,6 +2,6 @@
 
 | Lab Section | Driver | Navigator | Recorder | Reviewer |
 |---|---|---|---|---|
-| Part A & B | | | | |
-| Part C | | | | |
-| Part D & E | | | | |
+| Part A & B |Martinez |Martinez |Ogang| Ogang|
+| Part C |Martinez | Martinez| Ogang| Ogang|
+| Part D & E |Martinez | Martinez| Ogang| Ogang|

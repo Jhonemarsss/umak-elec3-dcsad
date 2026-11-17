@@ -1,7 +1,7 @@
 # Lab 1 Submission
 
 ## Part B
-**Error Action Name: You are not authorized to perform this operation. User: arn:aws:iam::548387266019:user/dcsad-g01 is not authorized to perform: ec2:RunInstances on resource: arn:aws:ec2:ap-southeast-1:548387266019:instance/* because no identity-based policy allows the ec2:RunInstances action.
+Error Action Name: You are not authorized to perform this operation. User: arn:aws:iam::548387266019:user/dcsad-g01 is not authorized to perform: ec2:RunInstances on resource: arn:aws:ec2:ap-southeast-1:548387266019:instance/* because no identity-based policy allows the ec2:RunInstances action.
 
 ## Part C
 **Policy Statement Blanks:**
